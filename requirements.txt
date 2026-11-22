@@ -1,0 +1,10 @@
+# NETWORK BLACK BOX — Dependencies
+# Python 3.10+ compatible (tested on Python 3.12, 3.13, 3.14 on Windows)
+
+# Packet capture, sniffing, and protocol parsing
+scapy>=2.5.0
+
+# Bandwidth graph visualization
+matplotlib>=3.7.0
+
+# Note: Tkinter, SQLite3, threading, and queue are built directly into standard Python.
